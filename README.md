@@ -3,10 +3,10 @@
 <h3 align="center">A passionate MERN Stack Web Developer.I'm on a mission to transform ideas into captivating digital experiences. My code is the brush, and the web canvas is my playground. Passionate about clean code, creative designs, and continuous learning. Let's collaborate and build something extraordinary together! 🚀</h3>
 
 <h1>About Me</h1>
-<h3 align="left">I am curently - A Front_end Devloper With Mern Stack🚀</h3>
+<h3 align="left">🚀I am curently - A Front_end Devloper With Mern Stack</h3>
 
-<h3 align="left">I am exploring - React for Front_end and Node.js for backend devlopment🌱</h3>
-<h3 align="left">I am trying - To make a positive impact by using my web devlopment skill⚡</h3>
+<h3 align="left">🌱I am exploring - React for Front_end and Node.js for backend devlopment</h3>
+<h3 align="left">⚡I am trying - To make a positive impact by using my web devlopment skill</h3>
 
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
