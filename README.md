@@ -33,14 +33,14 @@
   <img src="https://img.shields.io/badge/Terminus-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white" />
 
 </p>
----
+
 
 ## 📈 <p align="center">GitHub Stats</p>
 
-<p align="flex gap-5">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=radical" alt="GitHub Stats" /><br />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasibul&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
