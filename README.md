@@ -7,34 +7,37 @@
 
 <p align="center">
   <!-- Frontend -->
-  <b>Frontend</b> <br />
+  <b>Frontend</b> <br /> <br/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br /><br />
+  </p>
 
   <!-- Backend -->
-  <b>Backend</b> <br />
+  <p align="center">
+  <b>Backend</b> <br /> <br/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-%23AA2929.svg?style=for-the-badge&logo=mongoose&logoColor=white" /> <br /><br />
-
+</p>
   <!-- DevOps -->
-  <b>DevOps</b> <br />
+  <p align="center">
+  <b>DevOps</b> <br /> <br/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-%2300ADEF.svg?style=for-the-badge&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminus-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
 
+</p>
 ---
 
 ## 📈 <p align="center">GitHub Stats</p>
 
-<p align="center">
+<p align="flex gap-5">
   <img src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=radical" alt="GitHub Stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasibul&layout=compact&theme=radical" alt="Top Languages" />
 </p>
