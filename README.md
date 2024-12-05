@@ -47,10 +47,10 @@
 ## 🔗 <p align="center">Connect With Me</p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/rasibul-islam]">
+  <a href="https://linkedin.com/in/rasibul-islam">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://fb.com/rasibul.islam]">
+  <a href="https://www.facebook.com/rasibul.islam.313?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:rasibul179@gmail.com">
