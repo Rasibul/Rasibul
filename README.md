@@ -47,7 +47,7 @@
 ## 🔗 <p align="center">Connect With Me</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rasibul-islam">
+ <a href="https://www.linkedin.com/in/rasibul-islam-a21505257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/rasibul.islam.313?mibextid=ZbWKwL">
