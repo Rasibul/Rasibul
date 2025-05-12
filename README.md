@@ -1,63 +1,94 @@
-![logo](https://i.ibb.co/zGzVyVv/rasibul-2.png)
+<!-- ![logo](https://i.ibb.co/zGzVyVv/rasibul-2.png) -->
 # Hi there, I'm Rasibul Islam👋
 
-<h3 align="center"> A creator of worlds with lines of code, Where logic meets art, and ideas explode. Through trial and error, solutions I find, Building dreams, one function at a time. 🌐✨ </h3>
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About Me**
 
-## 🛠️ <p align="center">Tech Stack</p>
+- 🌱 I’m currently building **Event-Manager**
+- 🔧 Working with: `MongoDB`, `Express.js`, `React`, `Node.js`, `TypeScript`, `Tailwind`, `Mongoose`, `Prisma`, `Redux`, `Firebase`, and more  
+- 💬 Ask me about anything MERN, backend APIs, or web deployment  
+- 🧠 Learning microservices, GraphQL, and testing (Jest, Supertest)
+<!-- 
+- 📄 [Check out my resume](https://your-resume-link.com)
+-->
+- 📫 Reach me at: **rasibuldeveloper@gmail.com**
 
-<p align="center">
-  <!-- Frontend -->
-  <b>Frontend</b> <br /> <br/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br /><br />
-  </p>
+---
 
-  <!-- Backend -->
-  <p align="center">
-  <b>Backend</b> <br /> <br/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-%23AA2929.svg?style=for-the-badge&logo=mongoose&logoColor=white" /> <br /><br />
-</p>
-  <!-- DevOps -->
-  <p align="center">
-  <b>DevOps</b> <br /> <br/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-%2300ADEF.svg?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminus-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white" />
+## 🚀 Languages & Tools
 
-</p>
-
-
-## 📈 <p align="center">GitHub Stats</p>
-
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasibul&layout=compact&theme=radical" alt="Top Languages" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/Redux.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/Prisma.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/PostgreSQL.svg" height="40" width="52" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" />
 </div>
 
 ---
 
-## 🔗 <p align="center">Connect With Me</p>
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasibul-islam&theme=chartreuse-dark&layout=compact" alt="rasibul-islam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasibul-islam&show_icons=true&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasibul-islam&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasibul-islam&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
- <a href="https://www.linkedin.com/in/rasibul-islam-a21505257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/rasibul.islam.313?mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:rasibul179@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rasibul-islam&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" />
 </p>
 
 ---
 
-### <p align="center">💡 “Learning never exhausts the mind.” – Leonardo da Vinci</p>
+## 📝 Profile Summary
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasibul-islam&theme=2077" />
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rasibul-islam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+  </a>
+  <a href="https://facebook.com/rasibul.islam.754" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
+  </a>
+  <a href="https://www.instagram.com/rasibul.islam.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+  </a>
+  <a href="https://discord.com/users/rasibul#1545" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h4 align="center">Thanks for visiting 💚</h4>
+  <img src="https://profile-counter.glitch.me/rasibul-islam/count.svg?" />
+</div>
