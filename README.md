@@ -1,15 +1,16 @@
-<!-- ![logo](https://i.ibb.co/zGzVyVv/rasibul-2.png) -->
-# Hi there, I'm Rasibul Islam👋
+<!-- Banner Image -->
+<!-- <div align="center">
+   ![logo](https://i.ibb.co/BKnF3gs7/github-header-image-1.png)
+</div>-->
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About Me**
+# Hi there, I'm Rasibul Islam 👋
 
-- 🌱 I’m currently building **Event-Manager**
+## **Full-Stack Developer | MERN Stack Enthusiast**
+
+- 🌱 Currently building **Event-Manager**
 - 🔧 Working with: `MongoDB`, `Express.js`, `React`, `Node.js`, `TypeScript`, `Tailwind`, `Mongoose`, `Prisma`, `Redux`, `Firebase`, and more  
 - 💬 Ask me about anything MERN, backend APIs, or web deployment  
 - 🧠 Learning microservices, GraphQL, and testing (Jest, Supertest)
-<!-- 
-- 📄 [Check out my resume](https://your-resume-link.com)
--->
 - 📫 Reach me at: **rasibuldeveloper@gmail.com**
 
 ---
@@ -39,18 +40,18 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasibul-islam&theme=chartreuse-dark&layout=compact" alt="rasibul-islam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasibul&theme=chartreuse-dark&layout=compact" alt="rasibul-islam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasibul-islam&show_icons=true&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=chartreuse-dark" alt="rasibul-islam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasibul-islam&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasibul&theme=chartreuse-dark" alt="rasibul-islam" /></p>
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasibul-islam&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasibul&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" />
 </div>
 
 ---
@@ -58,14 +59,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasibul-islam&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rasibul&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" />
 </p>
 
 ---
 
 ## 📝 Profile Summary
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasibul-islam&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasibul&theme=2077" />
 
 ---
 
