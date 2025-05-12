@@ -39,18 +39,18 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasibul-islam&theme=chartreuse-dark&layout=compact" alt="rasibul-islam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasibul&theme=chartreuse-dark&layout=compact" alt="rasibul-islam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasibul-islam&show_icons=true&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasibul&show_icons=true&theme=chartreuse-dark" alt="rasibul-islam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasibul-islam&theme=chartreuse-dark" alt="rasibul-islam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasibul&theme=chartreuse-dark" alt="rasibul-islam" /></p>
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasibul-islam&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasibul&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" />
 </div>
 
 ---
@@ -58,14 +58,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasibul-islam&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rasibul&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" />
 </p>
 
 ---
 
 ## 📝 Profile Summary
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasibul-islam&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasibul&theme=2077" />
 
 ---
 
@@ -90,5 +90,5 @@
 
 <div align="center">
   <h4 align="center">Thanks for visiting 💚</h4>
-  <img src="https://profile-counter.glitch.me/rasibul-islam/count.svg?" />
+  <img src="https://profile-counter.glitch.me/Rasibul/count.svg?" />
 </div>
