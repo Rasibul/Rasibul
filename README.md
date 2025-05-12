@@ -1,15 +1,16 @@
-<!-- ![logo](https://i.ibb.co/zGzVyVv/rasibul-2.png) -->
-# Hi there, I'm Rasibul Islam👋
+<!-- Banner Image -->
+<!-- <div align="center">
+   ![logo](https://i.ibb.co/BKnF3gs7/github-header-image-1.png)
+</div>-->
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About Me**
+# Hi there, I'm Rasibul Islam 👋
 
-- 🌱 I’m currently building **Event-Manager**
+## **Full-Stack Developer | MERN Stack Enthusiast**
+
+- 🌱 Currently building **Event-Manager**
 - 🔧 Working with: `MongoDB`, `Express.js`, `React`, `Node.js`, `TypeScript`, `Tailwind`, `Mongoose`, `Prisma`, `Redux`, `Firebase`, and more  
 - 💬 Ask me about anything MERN, backend APIs, or web deployment  
 - 🧠 Learning microservices, GraphQL, and testing (Jest, Supertest)
-<!-- 
-- 📄 [Check out my resume](https://your-resume-link.com)
--->
 - 📫 Reach me at: **rasibuldeveloper@gmail.com**
 
 ---
